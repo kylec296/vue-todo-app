@@ -1,6 +1,7 @@
 # todo-app
 
-> A Vue.js project
+> A Vue.js project POC To better understand Vue.js
+
 
 ## Build Setup
 
